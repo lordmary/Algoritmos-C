@@ -1,2 +1,2 @@
 # Algoritmos-C
-Utilizando a linguagem C em códigos simples e estruturas de dados
+Utilizando a linguagem C em estruturas de dados e códigos variados.
